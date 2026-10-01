@@ -1,0 +1,15 @@
+{
+  "project": "California Land Use Bill Tracker",
+  "migration_state": "staging",
+  "source_of_truth_for_new_code": "GitHub",
+  "existing_live_tracker": "https://lus-california-land-use-bills.nathansh.chatgpt.site",
+  "snapshot_date": "2026-10-01",
+  "snapshot_counts": {
+    "bills_tracked": 202,
+    "chaptered": 117,
+    "vetoed": 9,
+    "removed_not_tracking": 82,
+    "changes_last_7_days": 44
+  },
+  "note": "Counts reflect the preserved October 1 rendered tracker snapshot and will be replaced by structured bill data during migration."
+}
