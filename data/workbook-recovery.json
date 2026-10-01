@@ -1,0 +1,1000 @@
+{
+  "schema_version": 1,
+  "source_file": "LRP Legislative Updates.xlsx",
+  "in_scope_sheet_rule": "June 2025 onward including May 21–June 9 overlap, 2025 signed/enrolling, 2026 sheets, working list; early pre-May-21 sheets excluded",
+  "record_count": 252,
+  "records": [
+    {
+      "id": "AB 1",
+      "session": "2025–2026",
+      "title": "Residential property insurance: wildfire risk.",
+      "type": "FHA",
+      "subtype": "Building Standards",
+      "description": "Would require the Dept of Insurance, on or before January 1, 2030, and every ...",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1"
+    },
+    {
+      "id": "AB 11",
+      "session": "2025–2026",
+      "title": "The Social Housing Act.",
+      "type": "Housing",
+      "subtype": "",
+      "description": "This bill, the Social Housing Act, would establish the California Housing Aut...",
+      "signed_status": "",
+      "status_samples": [],
+      "source_sheets": [
+        "Working List"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB11",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB11"
+    },
+    {
+      "id": "AB 36",
+      "session": "2025–2026",
+      "title": "Housing elements: prohousing designation.",
+      "type": "Housing",
+      "subtype": "Prohousing Designation",
+      "description": "Currently, HCD provides \"prohousing\" designations under temporary regulations. This bill mandates that HCD use permanent regulations to confer the prohousing status.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "7.31 to 8.12",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB36",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB36"
+    },
+    {
+      "id": "AB 39",
+      "session": "2025–2026",
+      "title": "General plans: Local Electrification Planning Act.",
+      "type": "General Plan",
+      "subtype": "Energy",
+      "description": "This bill, known as the Local Electrification Planning Act, requires counties...",
+      "signed_status": "",
+      "status_samples": [
+        "9/11/2025 Senate amendments concurred in. To Engrossing and Enrolling.",
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31",
+        "Enrolling Bills"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB39",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB39"
+    },
+    {
+      "id": "AB 66",
+      "session": "2025–2026",
+      "title": "",
+      "type": "CEQA",
+      "subtype": "",
+      "description": "Until January 1, 2032, egress route projects meant to improve emergency access and evacuation in subdivisions lacking secondary routes would be exempt from CEQA and certain conditions are met.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB66",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB66"
+    },
+    {
+      "id": "AB 76",
+      "session": "2025–2026",
+      "title": "Surplus land: exempt surplus land: sectional planning area.",
+      "type": "Surplus Land",
+      "subtype": "Housing Density",
+      "description": "Modifies \"exempt surplus land\" criteria. \"Exempt surplus land\" criteria included:  at least 25% of housing units must be for lower-income and must be developed at a density of at least 10 units per acre. The bill modifies this, specifying that for sectional planning documents adopted before January 1, 2019, the 25% requirement applies only to units not meant for students, faculty, or staff of academic institutions.",
+      "signed_status": "Vetoed",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Vetoed"
+      ],
+      "source_sheets": [
+        "6.18 to 6.23",
+        "7.31 to 8.12",
+        "8.13 - 8.18",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB76",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB76"
+    },
+    {
+      "id": "AB 87",
+      "session": "2025–2026",
+      "title": "Housing development: density bonuses: mixed-use developments.",
+      "type": "Housing",
+      "subtype": "Density Bonus",
+      "description": "Would prevent housing density bonus incentives from being applied to mixed-use developments that serve as hotels, motels, bed and breakfasts, or other visitor accommodations.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "6.18 to 6.23",
+        "8.13 - 8.18",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB87",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB87"
+    },
+    {
+      "id": "AB 107",
+      "session": "2025–2026",
+      "title": "Budget Acts of 2023, 2024, and 2025.",
+      "type": "Budget",
+      "subtype": "",
+      "description": "The Budget Acts of 2023, 2024, and 2025 made appropriations for the support of state government for the 2023–24, 2024–25, and 2025–26 fiscal years, respectively.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "1.14 - 2.18",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB107",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB107"
+    },
+    {
+      "id": "AB 130",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Trailer bill",
+      "subtype": "",
+      "description": "This bill is a comprehensive housing legislation that addresses multiple aspe...",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB130",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB130"
+    },
+    {
+      "id": "AB 253",
+      "session": "2025–2026",
+      "title": "California Residential Private Permitting Review Act: residential building permits.",
+      "type": "Fees",
+      "subtype": "Building Permits",
+      "description": "Known as the California Residential Private Permitting Review Act , this bill requires counties prepare and post a fee schedule online. Local building depts must provide applicants with estimated timeframes for plan checks. If a dept needs more than 30 days to complete a plan check, applicants can hire private professionals to perform it. These private professionals must submit an affidavit and report to the building department, which then has 14 days to issue the permit or to notify applicants of non-compliance. The bill applies to specific new constructions and modifications of residential buildings.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "6.18 to 6.23",
+        "7.15 to 7.31",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB253",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB253"
+    },
+    {
+      "id": "AB 261",
+      "session": "2025–2026",
+      "title": "Fire safety: fire hazard severity zones: State Fire Marshal.",
+      "type": "FHA",
+      "subtype": "",
+      "description": "Allows the State Fire Marshal to consult various entities between formal revi...",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB261",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB261"
+    },
+    {
+      "id": "AB 282",
+      "session": "2025–2026",
+      "title": "Discrimination: housing: source of income.",
+      "type": "Housing",
+      "subtype": "Fair Housing",
+      "description": "The California Fair Employment and Housing Act (FEHA) prohibits discriminatio...",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB282",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB282"
+    },
+    {
+      "id": "AB 300",
+      "session": "2025–2026",
+      "title": "Fire hazard severity zones: State Fire Marshal.",
+      "type": "",
+      "subtype": "",
+      "description": "Requires that the State Fire Marshal conduct reviews of fire hazard classifications at least once every 5 years. Mandates the re-review of areas that have not been previously classified.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "7.31 to 8.12"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB300",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB300"
+    },
+    {
+      "id": "AB 301",
+      "session": "2025–2026",
+      "title": "Planning and zoning: housing development projects: postentitlement phase permits: state departments.",
+      "type": "Housing",
+      "subtype": "Postentitlement Phase Permit",
+      "description": "(Impacts state, just an FYI) Under existing law, local agencies must provide information and examples for postentitlement phase permits for at least five housing project types by January 1, 2024. The bill mandates that a state department comply with described provisions and also provide relevant information online by January 1, 2026. If a state department fails to meet the review timelines, the permit is automatically approved.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "6.10.25 to 6.17.25",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB301",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB301"
+    },
+    {
+      "id": "AB 306",
+      "session": "2025–2026",
+      "title": "California Building Standards Commission: appeals: code interpretations.",
+      "type": "Building Standards",
+      "subtype": "Regional Housing Needs",
+      "description": "From June 1, 2025, to June 1, 2031, would restrict counties from altering building standards related to residential units unless the changes are deemed necessary as emergency standards. Also amends the definition of \"model code\" to include the latest International Wildland-Urban Interface Code.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "6.10.25 to 6.17.25",
+        "Working List"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB306",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB306"
+    },
+    {
+      "id": "AB 368",
+      "session": "2025–2026",
+      "title": "Energy: building standards: passive house standards.",
+      "type": "Building Standards",
+      "subtype": "Energy",
+      "description": "The CA Energy Commission must submit a report on an alternative passive house energy efficiency standards for existing building efficiency regulations, by December 31, 2026,",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25",
+        "7.15 to 7.31"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB368",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB368"
+    },
+    {
+      "id": "AB 385",
+      "session": "2025–2026",
+      "title": "Regional park property: County of San Bernardino: Glen Helen Regional ...",
+      "type": "Glen Helen Regional Park",
+      "subtype": "",
+      "description": "Allows San Bernardino County to sell up to 42 acres of Glen Helen Regional Pa...",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB385",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB385"
+    },
+    {
+      "id": "AB 431",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Planning/Zoning/Land Use",
+      "subtype": "",
+      "description": "Restricts local governments from making laws on advanced air mobility, aircraft ownership, or operational rules. This will override local laws enacted before July 1, 2025 and create a statewide standard",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB431",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB431"
+    },
+    {
+      "id": "AB 436",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Planning/Zoning/Land Use",
+      "subtype": "",
+      "description": "Would require the Land use and Climate Innovation to develop a technical advisory on best practices on siting composting facilities by June 1, 2027, \n\nThe advisory will include sample general plan goals and a model ordinance.  \n\nCounties to revise their land use elements on or after January 1, 2029  with focus on identifying appropriate areas for composting facilities.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB436",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB436"
+    },
+    {
+      "id": "AB 462",
+      "session": "2025–2026",
+      "title": "Land use: accessory dwelling units.",
+      "type": "ADU",
+      "subtype": "Emergency Response",
+      "description": "Local agencies cannot issue an occupancy certificate for an ADU until the pri...",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "9/12/2025 Set for Hearing 9/12/2025",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "6.24 to 6.27",
+        "7.15 to 7.31",
+        "Enrolling Bills",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB462",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB462"
+    },
+    {
+      "id": "AB 474",
+      "session": "2025–2026",
+      "title": "Housing discrimination: nonprofit home-sharing program: eligibility fo...",
+      "type": "Housing",
+      "subtype": "Fair Housing",
+      "description": "Would specify in the CA Fair Employment and Housing Act that discrimination d...",
+      "signed_status": "Vetoed",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Vetoed"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB474",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB474"
+    },
+    {
+      "id": "AB 507",
+      "session": "2025–2026",
+      "title": "Adaptive reuse: streamlining: incentives.",
+      "type": "Streamlining",
+      "subtype": "Streamlining",
+      "description": "Would allow local govts to ministerially approve adaptive reuse projects if in urbanized areas, satisfy affordability criteria, and preserve historic resources where applicable. Rental projects must include either 8% very low income and 5% extremely low income units, or 15% lower income units.  Owner-occupied projects must offer either 30% of units at moderate-income affordability or 15% at lower-income affordability. Local gov't can establish investment incentive programs to support these projects.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31",
+        "8.13 - 8.18",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB507",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB507"
+    },
+    {
+      "id": "AB 518",
+      "session": "2025–2026",
+      "title": "Low-impact camping areas.",
+      "type": "Land Use",
+      "subtype": "Campgrounds",
+      "description": "The Special Occupancy Parks Act currently governs the construction, maintenance, and use of special occupancy parks, which include recreational vehicle parks and campgrounds. This bill specifies that \"low-impact camping areas\" are excluded from this definition if located in counties with specific ordinances for such camping. The bill outlines conditions for private property owners offering low-impact camping sites and hosting platforms, requiring these areas to comply with local waste disposal and noise regulations. Additionally, counties that permit low-impact camping must create a registry of these sites and inform HCD of their decision. Low-impact camping areas are defined as private properties rented for temporary recreational stays that do not qualify as commercial lodging facilities.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "9/10/2025 Senate amendments concurred in. To Engrossing and Enrolling."
+      ],
+      "source_sheets": [
+        "8.19 - 9.3",
+        "Enrolling Bills"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB518",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB518"
+    },
+    {
+      "id": "AB 527",
+      "session": "2025–2026",
+      "title": "Oil and gas: California Environmental Quality Act: geothermal explorat...",
+      "type": "CEQA",
+      "subtype": "Geothermal",
+      "description": "Exempts qualifying geothemeral exploratory projects from CEQA until January 1...",
+      "signed_status": "Vetoed",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Vetoed"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB527",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB527"
+    },
+    {
+      "id": "AB 531",
+      "session": "2025–2026",
+      "title": "",
+      "type": "CEQA",
+      "subtype": "Geothermal",
+      "description": "Under current law, certain energy projects, can apply to the Energy Commissi...",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB531",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB531"
+    },
+    {
+      "id": "AB 534",
+      "session": "2025–2026",
+      "title": "Transitional housing placement providers.",
+      "type": "Housing",
+      "subtype": "Transitional Housing",
+      "description": "Proposes that contracts for transitional housing services initially last thre...",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB534",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB534"
+    },
+    {
+      "id": "AB 550",
+      "session": "2025–2026",
+      "title": "The California Endangered Species Act: take of species: renewable electrical generation facilities.",
+      "type": "Energy",
+      "subtype": "",
+      "description": "authorizes CDFW to issue permits for the \"take\" of declining or vulnerable species associated with renewable electrical generation facilities, with certain conditions, as part of CA's broader goals to achieve net zero emissions.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "46285"
+      ],
+      "source_sheets": [
+        "6.24 to 6.27",
+        "Signed Bills (2026)",
+        "Working List"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB550",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB550"
+    },
+    {
+      "id": "AB 557",
+      "session": "2025–2026",
+      "title": "California Factory-Built Housing Law.",
+      "type": "Building Standards",
+      "subtype": "",
+      "description": "Updates the California Factory-Built Housing Law's scope to include factory-built developments, which are defined as projects using factory-built housing for at least 50% of residential square footage. Shifts inspection and enforcement responsibilities entirely to HCD, removing local government's previous role. Requires plan approvals to be done by unit serial number. Would allow approved plans to be used in subsequent development projects within the same or subsequent building code cycles, with the HCD limiting its review to only new or unapproved portions of plans. Maintains local jurisdictions' authority to regulate zoning, setbacks, and aesthetic requirements.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "7.8 to 7.11"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB557",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB557"
+    },
+    {
+      "id": "AB 580",
+      "session": "2025–2026",
+      "title": "Surface mining: Metropolitan Water District of Southern California.",
+      "type": "SMARA",
+      "subtype": "",
+      "description": "The SMARA allows the Metropolitan Water District of Southern California (MWD) to create a master reclamation plan for mining operations within certain counties.  The current provisions that allow MWD to prepare this master reclamation plan are set to expire on January 1, 2026. This bill proposes to extend provisions until January 1, 2041 and would require local govt acting as lead agencies to continue their review duties, creating a state-mandated local program.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "7.31 to 8.12",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB580",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB580"
+    },
+    {
+      "id": "AB 592",
+      "session": "2025–2026",
+      "title": "",
+      "type": "ABC",
+      "subtype": "",
+      "description": "Extends the Department of Alcoholic Beverage Control's ability to permit expa...",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB592",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB592"
+    },
+    {
+      "id": "AB 610",
+      "session": "2025–2026",
+      "title": "Housing element: governmental constraints: disclosure statement.",
+      "type": "Housing",
+      "subtype": "",
+      "description": "This bill would a governmental constraints disclosure statement in the housing element. It also prohibits adopting new or amended constraints within three years of compliance confirmation unless they are in the disclosure statement and previous commitments to mitigate constraints have been fulfilled, or if required by law.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "9/11/2025 Senate amendments concurred in. To Engrossing and Enrolling.",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25",
+        "7.15 to 7.31",
+        "Enrolling Bills",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB610",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB610"
+    },
+    {
+      "id": "AB 630",
+      "session": "2025–2026",
+      "title": "Abandoned recreational vehicles.",
+      "type": "Code Enforcement",
+      "subtype": "",
+      "description": "Under existing law, peace officers or public agency employees can remove and ...",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "6.24 to 6.27"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB630",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB630"
+    },
+    {
+      "id": "AB 632",
+      "session": "2025–2026",
+      "title": "Local ordinances: administrative fines or penalties.",
+      "type": "Other",
+      "subtype": "Fines & Penalties",
+      "description": "(FYI) Existing law allows local agencies to impose administrative fines or penalties for ordinance violations. The proposed bill would enhance enforcement by allowing agencies to file a certified copy of a final order directing payment of fines with a superior court clerk, who must then enter judgment according to the order. The bill also  permits local agencies to create a system to collect fines by placing a lien on the land where the violation occurred, if a specific notice is served.",
+      "signed_status": "Vetoed",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Vetoed"
+      ],
+      "source_sheets": [
+        "6.18 to 6.23",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB632",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB632"
+    },
+    {
+      "id": "AB 643",
+      "session": "2025–2026",
+      "title": "Climate change: short-lived climate pollutants: organic waste reduction.",
+      "type": "Organic Waste",
+      "subtype": "",
+      "description": "Would authorize a local govt to include organic material used as a beneficial agricultural amendment towards its recovered organic waste procurement target if the material is processed at a facility using specified approved technologies, and if the material is licensed for end use as an agricultural fertilizer by the FDA and the material is not derived from, or processed using, specified activities relating to the final deposition or management of solid waste.",
+      "signed_status": "",
+      "status_samples": [],
+      "source_sheets": [
+        "4.16 to 5.13.26"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB643",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB643"
+    },
+    {
+      "id": "AB 648",
+      "session": "2025–2026",
+      "title": "Community colleges: housing: local zoning regulations: exemption.",
+      "type": "Housing",
+      "subtype": "Community Colleges",
+      "description": "allows California community college districts to bypass local zoning ordinances for university housing projects on their own property, provided certain conditions are met. If these projects include housing for faculty and staff, the bill mandates that some units be offered at affordable rents to those with extremely low and lower incomes. The bill asserts that its provisions address issues of statewide interest, affecting all cities, including charter cities.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "7.31 to 8.12",
+        "8.13 - 8.18",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB648",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB648"
+    },
+    {
+      "id": "AB 650",
+      "session": "2025–2026",
+      "title": "Planning and zoning: housing element: regional housing needs allocation.",
+      "type": "Housing Element",
+      "subtype": "RHNA",
+      "description": "(FYI) Requires HCD develop a standardized reporting format for actions taken to further fair housing by December 31, 2026. For HE revisions, the timeline for determining housing needs and consulting with councils of governments is extended from 2 years to 3 years, and from 26 months to 38 months, respectively. Counties forming subregional entities for housing distribution now have up to 34 months before revisions, while the council of governments has up to 31 months to determine housing need distribution among subregions.",
+      "signed_status": "Vetoed",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Vetoed"
+      ],
+      "source_sheets": [
+        "7.1 to 7.7",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB650",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB650"
+    },
+    {
+      "id": "AB 660",
+      "session": "2025–2026",
+      "title": "Planning and Zoning Law: postentitlement phase permits: Housing Accountability Act.",
+      "type": "Streamlining",
+      "subtype": "Postentitlement Phase Permits",
+      "description": "Would limit local agencies to 2 plan checks, allow agencies to deny applications not compliant with permit standards after 2 reviews, and reduce the time frame for review--Smaller housing projects (25 units or fewer), have 30 business days; for larger projects (26 units or more), 60 business days for review completion. Reduces appeal timeline to 30 business days for smaller projects and 45 business days for larger projects. If a federal or state agency requires review of a permit application, the local agency's review time will be paused (tolled) until that review is complete, with the local agency required to notify the applicant within 3 business days of the tolling and resumption of the time limit.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "6.24 to 6.27",
+        "7.15 to 7.31",
+        "7.31 to 8.12"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB660",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB660"
+    },
+    {
+      "id": "AB 670",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Housing",
+      "subtype": "APR",
+      "description": "If passed, APR can include number of units in an existing multifamily building that were converted to affordable housing via long-term affordability covenants/restrictions that require the unit to be available to persons or families of varying low income at an affordable rent or affordable housing cost for at least 55 years, if the units meet certain criteria.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB670",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB670"
+    },
+    {
+      "id": "AB 671",
+      "session": "2025–2026",
+      "title": "Accelerated restaurant building plan approval: California Retail Food ...",
+      "type": "Streamlining",
+      "subtype": "Building Permits",
+      "description": "Amends the California Building Standards Law to streamline the approval proce...",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "9/2/2025 Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.)..."
+      ],
+      "source_sheets": [
+        "6.24 to 6.27",
+        "7.15 to 7.31",
+        "Enrolling Bills"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB671",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB671"
+    },
+    {
+      "id": "AB 678",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Housing",
+      "subtype": "Displacement",
+      "description": "Current law mandates an established Interagency Council on Homelessness. This bill would require the council to work with LGBTQ+ community representatives to recommend policies and best practices  and data for inclusive services for LGBTQ+ individuals experiencing homelessness.  The council must submit a report with these recommendations to legislative committees by January 1, 2027.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB678",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB678"
+    },
+    {
+      "id": "AB 687",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Fire Hazard Abatement",
+      "subtype": "",
+      "description": "This bill allows up to 35 annual projects for noncommercial wildfire fuels reduction on timberlands under 1500 acres, funded by public money, to prepare a timber harvesting plan following CEQA guidelines. This bill implements a state-mandated local program, is set to expire on January 1, 2031.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB687",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB687"
+    },
+    {
+      "id": "AB 712",
+      "session": "2025–2026",
+      "title": "Housing reform laws: enforcement actions: fines and penalties.",
+      "type": "Housing",
+      "subtype": "Penalties",
+      "description": "(fyi) Prevents public agencies from requiring applicants to protect the agenc...",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "7.15 to 7.31",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB712",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB712"
+    },
+    {
+      "id": "AB 726",
+      "session": "2025–2026",
+      "title": "Planning and zoning: annual report: rehabilitated units.",
+      "type": "Housing",
+      "subtype": "APR",
+      "description": "Allows counties to count deed-restricted affordable housing units in APR if the units: are at least 15 years old, have been substantially rehabilitated with at least $60,000 per unit in funds from the county, and have an average affordability level no greater than 45 percent of the area median income. However, these rehabilitated units cannot be used when determining affordability requirements for streamlined housing approval processes.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "9/12/2025 Set for Hearing 9/12/2025"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25",
+        "7.15 to 7.31",
+        "Enrolling Bills"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB726",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB726"
+    },
+    {
+      "id": "AB 735",
+      "session": "2025–2026",
+      "title": "Planning and zoning: logistics use developments: truck routes.",
+      "type": "AB 98",
+      "subtype": "AB-98",
+      "description": "Current law, beginning January 1, 2026, prescribes various statewide warehouse design and build standards for any proposed new or expanded logistics use developments, as specified, including, among other things, standards for building design and location, parking, truck loading bays, landscaping buffers, entry gates, and signage. Current law defines various terms, including “21st century warehouse,” and “tier 1 21 century warehouse,” for purposes of those provisions as compliant with building and energy efficiency standards, including requirements related to the availability of conduits and electrical hookups to power climate control equipment at loading bays, as specified. Current law also defines the term “expansion of an existing logistics use” for purposes of those provisions. Would clarify that a 21st century warehouse and a tier 1 21st century warehouse are required to comply with those standards as are in effect at the time that the application for a development of a 21st century warehouse is submitted and make other clarifying changes relating to permissibility of use of conduits and electrical hookups at loading bays at those locations.",
+      "signed_status": "",
+      "status_samples": [
+        "Failed Deadline pursuant to Rule 61(a)(14). (Last location was INACTIVE FILE on 9/13/2025)(May be acted upon Jan 2026)",
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "1.7.2026",
+        "3.31- 4.15.26",
+        "7.15 to 7.31"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB735",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB735"
+    },
+    {
+      "id": "AB 736",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Funding",
+      "subtype": "Affordable Housing",
+      "description": "This bill would be the  Affordable Housing Bond Act of 2026, which would issue  $10 billion to affordable housing programs such as  Multifamily Housing Program, supportive housing, Portfolio Reinvestment Program,  acquisition and rehabilitation of housing units, CalHome,  farmworker housing grants, tribal housing initiatives, and he Infill Infrastructure Grant Program.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB736",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB736"
+    },
+    {
+      "id": "AB 738",
+      "session": "2025–2026",
+      "title": "Energy: building standards: photovoltaic requirements.",
+      "type": "Building Standards",
+      "subtype": "PV System",
+      "description": "Under this bill, residential property owners rebuilding after a disaster could use the solar reqs that were in effect at the time of their original construction, instead of complying with current solar standards until Jan 1, 2028.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "9/11/2025 Read third time. Passed. Ordered to the Assembly. (Ayes 33. Noes 3.)."
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25",
+        "7.15 to 7.31",
+        "Enrolling Bills"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB738",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB738"
+    },
+    {
+      "id": "AB 745",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Funding",
+      "subtype": "Energy",
+      "description": "The act makes $850,000,000 available for clean energy projects per the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024 (act)",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB745",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB745"
+    },
+    {
+      "id": "AB 748",
+      "session": "2025–2026",
+      "title": "Single-family and multifamily housing units: preapproved plans.",
+      "type": "Housing",
+      "subtype": "Pre-approved Plans",
+      "description": "requires local agencies, which include cities and counties, to create programs for pre-approving plans for single-family and multifamily housing units, defined as buildings with 2 to 10 units. Large jurisdictions, generally cities with 25,000 or more residents or any county, must establish these programs by July 1, 2027, while small jurisdictions, typically smaller cities or counties with fewer than 250,000 residents, have until January 1, 2029. Once a plan is pre-approved, the local agency must post it and the applicant's contact information on its website. Crucially, if a housing unit application uses a pre-approved plan or a plan identical to one previously approved, and the lot meets specific conditions, the local agency must approve or deny the application within 30 days without further discretionary review, effectively exempting these projects from the California Environmental Quality Act (CEQA) which normally requires environmental impact reviews for projects that could significantly affect the environment. The bill also mandates that large jurisdictions report the number of units approved using pre-approved plans starting April 1, 2028, and small jurisdictions starting April 1, 2030, in their annual progress reports.",
+      "signed_status": "",
+      "status_samples": [
+        "Re-referred to Com. on H. & C.D."
+      ],
+      "source_sheets": [
+        "1.7.2026"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB748",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB748"
+    },
+    {
+      "id": "AB 750",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Housing",
+      "subtype": "Displacement",
+      "description": "Requires shelters display  written information to occupants about their rights. Requires counties to conduct annual inspections of all homeless shelters in their jurisdiction.\n\nThe county is required to submit annual reports detailing the number of complaints received, any pending violations, emergency orders issued, and a list of shelter owners/operators with multiple violations.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB750",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB750"
+    },
+    {
+      "id": "AB 752",
+      "session": "2025–2026",
+      "title": "Child daycare facilities.",
+      "type": "Streamlining",
+      "subtype": "Land Use Allowance",
+      "description": "Requires local jurisdictions to treat daycare centers colocated with multifamily housing or community amenities as a residential use of property and a \"use by right.\" Local jurisdictions are still allowed to impose restrictions on building heights, setbacks, and lot dimensions, but must be identical to those applied to the colocated housing.",
+      "signed_status": "Chaptered",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:",
+        "Chaptered"
+      ],
+      "source_sheets": [
+        "8.13 - 8.18",
+        "Signed (2025)"
+      ],
+      "visible_in_oct1_snapshot": false,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB752",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB752"
+    },
+    {
+      "id": "AB 782",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Planning/Zoning/Land Use",
+      "subtype": "",
+      "description": "This bill aims to reduce duplicate security requirements for residential development and subdivision projects. Counties cannot requore additional security for improvements that are already covered by the Real Estate Commissioner's public report process.",
+      "signed_status": "",
+      "status_samples": [
+        "Signed:\nEffective:\nSunsets:"
+      ],
+      "source_sheets": [
+        "5.21.25 to 6.9.25"
+      ],
+      "visible_in_oct1_snapshot": true,
+      "official_bill_text": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB782",
+      "status_history": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB782"
+    },
+    {
+      "id": "AB 803",
+      "session": "2025–2026",
+      "title": "",
+      "type": "Conservation",
+      "subtype": "",
+      "description": "Amends the California Urban Forestry Act of 1978 to expand scope of urban forestry programs, focusing on school greening. \n\nDepartment of Forestry and Fire Protection to provide technical assistance for improving public schools. \n\nThe bill extends the deadline for submitting a statewide strategic plan to June 30, 2026, with a priority on disadvantaged and low-income communities and increasing tree canopy by 10%.",
+      "signed_status": "",
