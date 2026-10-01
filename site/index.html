@@ -16,17 +16,17 @@
         <h1>California land use bills</h1>
         <div class="session-line">2025–2026 legislative session · County impact and action tracker</div>
       </div>
-      <div class="header-actions">
-        <div class="scan-meta">Last source scan: <strong>10/1/2026, 1:12:19 PM</strong></div>
-        <div class="action-row">
-          <button class="btn primary" id="update-tracker" type="button">Update tracker</button>
-          <button class="btn" id="export-tracker" type="button">Export</button>
-        </div>
-      </div>
     </div>
   </header>
 
   <main class="shell">
+    <section class="toolbar">
+      <div class="scan-meta">Last source scan: <strong>10/1/2026, 1:12:19 PM</strong></div>
+      <div class="action-row">
+        <button class="btn primary" id="update-tracker" type="button">Update tracker</button>
+        <button class="btn" id="export-tracker" type="button">Export</button>
+      </div>
+    </section>
     <section class="metrics" aria-label="Tracker summary">
       <button class="metric-card" data-summary-filter="all" type="button"><span class="metric-value" id="metric-tracked">202</span><span class="metric-label">Bills tracked</span></button>
       <button class="metric-card" data-summary-filter="Chaptered" type="button"><span class="metric-value" id="metric-chaptered">117</span><span class="metric-label">Chaptered</span></button>
@@ -63,7 +63,7 @@
       <div class="showing" id="showing">Loading bills…</div>
     </section>
 
-    <section id="migration-note" class="migration-note">
+    <section id="migration-note" class="migration-note" hidden>
       <strong>GitHub migration:</strong> The 76 detailed bills in the October 1 working view are recovered, along with completed-bill records from the legislative workbook. Remaining chaptered and removed/not-tracking records are still being reconciled against official legislative data.
     </section>
 
