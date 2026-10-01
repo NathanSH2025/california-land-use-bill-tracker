@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790524921542,
+      "tag": "0000_tan_madame_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790529135782,
+      "tag": "0001_worried_banshee",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790532735672,
+      "tag": "0002_jittery_phil_sheldon",
+      "breakpoints": true
+    }
+  ]
+}

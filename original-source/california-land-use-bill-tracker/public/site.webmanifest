@@ -1,0 +1,14 @@
+{
+  "name": "LUS California Land Use Bills",
+  "short_name": "LUS Bills",
+  "description": "San Bernardino County LUS Planning land use bill tracker",
+  "start_url": "/tracker.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#002d73",
+  "icons": [
+    {"src": "/lus-icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/lus-icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

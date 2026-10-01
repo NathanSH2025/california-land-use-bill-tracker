@@ -1,0 +1,2066 @@
+{
+  "AB 1": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-09"
+  },
+  "AB 1007": {
+    "category": "Procedure Update",
+    "note": "Shortens the responsible agency decision window for specified projects; compare County routing and deadline tracking under Chapter 85.03.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 1021": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 1050": {
+    "category": "No Changes Required",
+    "note": "The enacted covenant procedure assigns review to County Counsel and the Recorder; no LUS Planning code change is identified.",
+    "action": "Send the covenant change to County Counsel and the Recorder if not already addressed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 1061": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 107": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-02-19"
+  },
+  "AB 1070": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 1089": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-01-22"
+  },
+  "AB 11": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-06-26"
+  },
+  "AB 1131": {
+    "category": "General Plan Update",
+    "note": "First-pass Policy Plan or housing-element cross-check; identify a plan amendment only after confirming the bill applies to the County.",
+    "action": "Check the adopted Policy Plan and housing element; schedule a change if the law requires one.",
+    "codeUrl": "https://countywideplan.sbcounty.gov/policy-plan/land-use/",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 1139": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-06"
+  },
+  "AB 1143": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-01-22"
+  },
+  "AB 1154": {
+    "category": "No Changes Required",
+    "note": "Chapter 84.36.060 already limits JADU owner occupancy to shared sanitation and restricts short rentals. Verify this implementation against the enacted text.",
+    "action": "Confirm Chapter 84.36.060 and JADU handouts reflect the enacted changes; close if aligned.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198987",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 1156": {
+    "category": "Procedure Update",
+    "note": "Would change who may waive Williamson Act cancellation fees for solar facilities; compare County agricultural preserve processes.",
+    "action": "If enacted, revise Williamson Act cancellation fee guidance with County Counsel.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-168144",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-14"
+  },
+  "AB 1165": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-04"
+  },
+  "AB 1203": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-02-02"
+  },
+  "AB 1206": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 1227": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 1275": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 1276": {
+    "category": "Review Impacts",
+    "note": "Proposed housing consistency and permit standards could affect both Title 8 and application review; scope needs closer legal review.",
+    "action": "Assign a focused legal and Planning review of the operative text and current County code.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 1294": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-14"
+  },
+  "AB 130": {
+    "category": "Review Impacts",
+    "note": "Housing omnibus changes touch ADUs, permit timelines, and CEQA. Audit Chapter 84.36 and application procedures against the operative sections.",
+    "action": "Audit Chapter 84.36, permit time limits, and CEQA screening against the omnibus text.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198937",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-06-30"
+  },
+  "AB 1308": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 1314": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-01"
+  },
+  "AB 1407": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-02-02"
+  },
+  "AB 1455": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-13"
+  },
+  "AB 1529": {
+    "category": "Review Impacts",
+    "note": "Potential LUS Planning interaction remains unresolved after a first-pass text review; compare the operative provisions before assigning a code or process change.",
+    "action": "Assign a focused legal and Planning review of the operative text and current County code.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-01"
+  },
+  "AB 1553": {
+    "category": "Procedure Update",
+    "note": "Would allow CEQA direct notice by email on recipient request; compare the County notice process in §85.03.080.",
+    "action": "If enacted, adjust notice delivery only where a recipient requested email.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-173101",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-03-17"
+  },
+  "AB 1567": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-14"
+  },
+  "AB 1573": {
+    "category": "General Plan Update",
+    "note": "First-pass Policy Plan or housing-element cross-check; identify a plan amendment only after confirming the bill applies to the County.",
+    "action": "Check the adopted Policy Plan and housing element; schedule a change if the law requires one.",
+    "codeUrl": "https://countywideplan.sbcounty.gov/policy-plan/land-use/",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-28"
+  },
+  "AB 1577": {
+    "category": "Procedure Update",
+    "note": "Data center permit applications gain energy and noise disclosure requirements; add fields to the County application checklist.",
+    "action": "Add applicant energy and noise estimates to the data center intake checklist.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-21"
+  },
+  "AB 1600": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-09"
+  },
+  "AB 1621": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "AB 1624": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-28"
+  },
+  "AB 1663": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-09"
+  },
+  "AB 1693": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-03"
+  },
+  "AB 1710": {
+    "category": "Review Impacts",
+    "note": "Proposed housing consistency rules could change how County standards and permit records are applied; review the exact provisions.",
+    "action": "Assign a focused legal and Planning review of the operative text and current County code.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 1732": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "AB 1738": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-18"
+  },
+  "AB 1751": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-03"
+  },
+  "AB 1801": {
+    "category": "Procedure Update",
+    "note": "Would restrict approvals for private detention facilities; compare applicable land use tables and permitting if enacted.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "AB 1802": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-18"
+  },
+  "AB 1808": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-10"
+  },
+  "AB 1815": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-10"
+  },
+  "AB 1820": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-20"
+  },
+  "AB 1821": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "AB 1834": {
+    "category": "Development Code Update",
+    "note": "Changes subdivision-map exception for mixed-use tracts; compare County subdivision approval rules.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-06-30"
+  },
+  "AB 1855": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-02-23"
+  },
+  "AB 1893": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-05-14"
+  },
+  "AB 1895": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-03-02"
+  },
+  "AB 1914": {
+    "category": "General Plan Update",
+    "note": "Would add childcare planning to the General Plan; track the proposed adoption window and compare existing Policy Plan policies.",
+    "action": "Check the adopted Policy Plan and housing element; schedule a change if the law requires one.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 1953": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-04-06"
+  },
+  "AB 1964": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-27"
+  },
+  "AB 1976": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-14"
+  },
+  "AB 1997": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "AB 2002": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 2005": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-30"
+  },
+  "AB 2057": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-04-09"
+  },
+  "AB 2059": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-15"
+  },
+  "AB 2074": {
+    "category": "General Plan Update",
+    "note": "First-pass Policy Plan or housing-element cross-check; identify a plan amendment only after confirming the bill applies to the County.",
+    "action": "Check the adopted Policy Plan and housing element; schedule a change if the law requires one.",
+    "codeUrl": "https://countywideplan.sbcounty.gov/policy-plan/land-use/",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-10"
+  },
+  "AB 2102": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-03-09"
+  },
+  "AB 2112": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-05-14"
+  },
+  "AB 2118": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-08"
+  },
+  "AB 2127": {
+    "category": "Procedure Update",
+    "note": "Would affect ADU approvals using private septic; compare Chapter 84.36.050(f) and obtain EHS review.",
+    "action": "If enacted, review the Chapter 84.36 sewer/septic language with Environmental Health Services.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198971",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-06-15"
+  },
+  "AB 2139": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-07-01"
+  },
+  "AB 2146": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-03"
+  },
+  "AB 2152": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-10"
+  },
+  "AB 2163": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-15"
+  },
+  "AB 2170": {
+    "category": "Procedure Update",
+    "note": "Proposed CEQA translation duties could change County environmental notices and EJFA outreach; compare Chapter 85.03 and planned Chapter 85.22.",
+    "action": "If enacted, compare CEQA translation requirements against County notices and EJFA outreach.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-173101",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-05-14"
+  },
+  "AB 2175": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-07-16"
+  },
+  "AB 2182": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 2234": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-15"
+  },
+  "AB 2239": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-03-09"
+  },
+  "AB 2288": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-03-09"
+  },
+  "AB 2295": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-03-09"
+  },
+  "AB 2296": {
+    "category": "General Plan Update",
+    "note": "First-pass Policy Plan or housing-element cross-check; identify a plan amendment only after confirming the bill applies to the County.",
+    "action": "Check the adopted Policy Plan and housing element; schedule a change if the law requires one.",
+    "codeUrl": "https://countywideplan.sbcounty.gov/policy-plan/land-use/",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-03"
+  },
+  "AB 2320": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-15"
+  },
+  "AB 2351": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-05-14"
+  },
+  "AB 2383": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-21"
+  },
+  "AB 2390": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-20"
+  },
+  "AB 2397": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-15"
+  },
+  "AB 2400": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-03-09"
+  },
+  "AB 2415": {
+    "category": "General Plan Update",
+    "note": "First-pass Policy Plan or housing-element cross-check; identify a plan amendment only after confirming the bill applies to the County.",
+    "action": "Check the adopted Policy Plan and housing element; schedule a change if the law requires one.",
+    "codeUrl": "https://countywideplan.sbcounty.gov/policy-plan/land-use/",
+    "statusAtReview": "Amended",
+    "dateAtReview": "2026-08-19"
+  },
+  "AB 2418": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-27"
+  },
+  "AB 2433": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-10"
+  },
+  "AB 2469": {
+    "category": "Procedure Update",
+    "note": "Data center water disclosure is a condition of County permit approval; add water supplier documentation to intake.",
+    "action": "Add water scarcity plan and supplier assessment checks before data center approvals.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-21"
+  },
+  "AB 2480": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "AB 2517": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-05-14"
+  },
+  "AB 253": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 2552": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-04-29"
+  },
+  "AB 2569": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-05-14"
+  },
+  "AB 2576": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-15"
+  },
+  "AB 2601": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-10"
+  },
+  "AB 261": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 2619": {
+    "category": "Procedure Update",
+    "note": "Data center water estimates go to the water supplier before local permit application; coordinate permit intake with water providers.",
+    "action": "Coordinate water-use estimate checks with the water supplier and permit intake.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-21"
+  },
+  "AB 2620": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-04-16"
+  },
+  "AB 2676": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Amended",
+    "dateAtReview": "2026-06-24"
+  },
+  "AB 2689": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198937",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-10"
+  },
+  "AB 2702": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-04-10"
+  },
+  "AB 2741": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-04-29"
+  },
+  "AB 2748": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 282": {
+    "category": "No Changes Required",
+    "note": "Enacted election-material criminal penalties do not appear to change LUS Planning duties.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-19"
+  },
+  "AB 300": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 301": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 306": {
+    "category": "No Changes Required",
+    "note": "Vetoed proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains vetoed; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Vetoed",
+    "dateAtReview": "2026-09-20"
+  },
+  "AB 36": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 368": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-01"
+  },
+  "AB 385": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-03"
+  },
+  "AB 39": {
+    "category": "General Plan Update",
+    "note": "Requires a local electrification plan or integration into a General Plan update by the statutory deadline; assign Policy Plan coordination.",
+    "action": "Place electrification plan requirements on the next Policy Plan work program.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-06"
+  },
+  "AB 431": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-28"
+  },
+  "AB 436": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-02-02"
+  },
+  "AB 462": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198937",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 474": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-01-22"
+  },
+  "AB 507": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 518": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-01"
+  },
+  "AB 527": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-01-22"
+  },
+  "AB 531": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-06"
+  },
+  "AB 534": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 550": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-20"
+  },
+  "AB 557": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-07-09"
+  },
+  "AB 580": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-03"
+  },
+  "AB 592": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-09"
+  },
+  "AB 609": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-05-20"
+  },
+  "AB 610": {
+    "category": "General Plan Update",
+    "note": "First-pass Policy Plan or housing-element cross-check; identify a plan amendment only after confirming the bill applies to the County.",
+    "action": "Check the adopted Policy Plan and housing element; schedule a change if the law requires one.",
+    "codeUrl": "https://countywideplan.sbcounty.gov/policy-plan/land-use/",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 630": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-13"
+  },
+  "AB 632": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-01-22"
+  },
+  "AB 643": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-20"
+  },
+  "AB 648": {
+    "category": "Procedure Update",
+    "note": "Community college housing meeting statutory conditions would bypass County zoning; check eligibility at intake.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-06"
+  },
+  "AB 650": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-01-22"
+  },
+  "AB 66": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-07-16"
+  },
+  "AB 660": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 670": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-13"
+  },
+  "AB 671": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-09"
+  },
+  "AB 678": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 687": {
+    "category": "No Changes Required",
+    "note": "Health insurance coverage proposal does not appear to affect LUS Planning.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-06-25"
+  },
+  "AB 712": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 722": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-02-02"
+  },
+  "AB 726": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-13"
+  },
+  "AB 735": {
+    "category": "Development Code Update",
+    "note": "Warehouse and truck route rules may affect County logistics conditions; cross-check existing County logistics standards.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-09-13"
+  },
+  "AB 736": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-06-25"
+  },
+  "AB 738": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-01-22"
+  },
+  "AB 745": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-06-25"
+  },
+  "AB 748": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 750": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-04"
+  },
+  "AB 752": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-01"
+  },
+  "AB 76": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-01-22"
+  },
+  "AB 782": {
+    "category": "No Changes Required",
+    "note": "The proposed exception concerns qualifying charter cities and covenant review; no County LUS zoning change is identified.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-06-26"
+  },
+  "AB 803": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 804": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-02-02"
+  },
+  "AB 806": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-06"
+  },
+  "AB 818": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 823": {
+    "category": "No Changes Required",
+    "note": "Consumer-product restrictions do not appear to affect LUS Planning.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-01-22"
+  },
+  "AB 839": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 846": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 864": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-03"
+  },
+  "AB 87": {
+    "category": "Procedure Update",
+    "note": "Density Bonus Law does not require concessions for certain transient lodging; check County density bonus screening.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 888": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 893": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 902": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "AB 906": {
+    "category": "General Plan Update",
+    "note": "First-pass Policy Plan or housing-element cross-check; identify a plan amendment only after confirming the bill applies to the County.",
+    "action": "Check the adopted Policy Plan and housing element; schedule a change if the law requires one.",
+    "codeUrl": "https://countywideplan.sbcounty.gov/policy-plan/land-use/",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 920": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "AB 939": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-04"
+  },
+  "AB 946": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "AB 956": {
+    "category": "Development Code Update",
+    "note": "Would expand ADU/JADU rights on lots allowing single-family residential uses; compare Chapter 84.36 and zoning tables if enacted.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198937",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-04"
+  },
+  "AB 982": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "SB 1003": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-20"
+  },
+  "SB 1008": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-08-27"
+  },
+  "SB 1014": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "SB 1036": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-06-30"
+  },
+  "SB 1061": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "SB 1062": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-02"
+  },
+  "SB 1063": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-04-23"
+  },
+  "SB 107": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-02-23"
+  },
+  "SB 1072": {
+    "category": "Review Impacts",
+    "note": "Potential LUS Planning interaction remains unresolved after a first-pass text review; compare the operative provisions before assigning a code or process change.",
+    "action": "Assign a focused legal and Planning review of the operative text and current County code.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-18"
+  },
+  "SB 1085": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-03"
+  },
+  "SB 1087": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-10"
+  },
+  "SB 1116": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "SB 1117": {
+    "category": "Procedure Update",
+    "note": "Would change ADU/JADU fees for floor area above 750 square feet; audit fee schedule and intake calculations if enacted.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198937",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-30"
+  },
+  "SB 1154": {
+    "category": "No Changes Required",
+    "note": "Enacted procurement rules for community college districts do not appear to affect LUS Planning.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-18"
+  },
+  "SB 1169": {
+    "category": "Procedure Update",
+    "note": "Extends tentative-map expiration and local extension periods; compare County subdivision map procedures.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-20"
+  },
+  "SB 1196": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198937",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-21"
+  },
+  "SB 1213": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-20"
+  },
+  "SB 1216": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-06-15"
+  },
+  "SB 1241": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-06-08"
+  },
+  "SB 1256": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-08"
+  },
+  "SB 1258": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-05-14"
+  },
+  "SB 1272": {
+    "category": "No Changes Required",
+    "note": "Vetoed proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains vetoed; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Vetoed",
+    "dateAtReview": "2026-09-20"
+  },
+  "SB 1283": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-20"
+  },
+  "SB 130": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198937",
+    "statusAtReview": "Amended",
+    "dateAtReview": "2025-06-26"
+  },
+  "SB 1317": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-04-16"
+  },
+  "SB 1326": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "SB 1350": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-06-29"
+  },
+  "SB 1361": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-08"
+  },
+  "SB 1367": {
+    "category": "Development Code Update",
+    "note": "Would bar local approval of specified detention facility uses; compare zoning tables and pending applications if enacted.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-08"
+  },
+  "SB 1375": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-21"
+  },
+  "SB 1383": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-08"
+  },
+  "SB 1414": {
+    "category": "No Changes Required",
+    "note": "Proposed County redistricting commission concerns elections, not LUS Planning code or permits.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "SB 1423": {
+    "category": "Monitor / FYI",
+    "note": "State spatial datasets would be optional for local planning; GIS and Long Range Planning could assess their use if enacted.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-08"
+  },
+  "SB 1426": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-06-30"
+  },
+  "SB 1439": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-04"
+  },
+  "SB 16": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-18"
+  },
+  "SB 21": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 222": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-30"
+  },
+  "SB 233": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 262": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 282": {
+    "category": "No Changes Required",
+    "note": "Inactive proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains inactive; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Inactive",
+    "dateAtReview": "2026-02-02"
+  },
+  "SB 283": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-06"
+  },
+  "SB 299": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-20"
+  },
+  "SB 326": {
+    "category": "No Changes Required",
+    "note": "Vetoed proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains vetoed; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Vetoed",
+    "dateAtReview": "2025-10-11"
+  },
+  "SB 340": {
+    "category": "Development Code Update",
+    "note": "First-pass zoning or development-standard cross-check with Title 8, Division 2; confirm the exact section before drafting changes.",
+    "action": "Compare enacted or proposed requirements against Title 8; draft amendments only where a gap is confirmed.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 346": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-13"
+  },
+  "SB 358": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 415": {
+    "category": "Procedure Update",
+    "note": "Warehouse standards are tied to building-permit timing; update logistics review guidance and check County conditions.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-03"
+  },
+  "SB 417": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-06-25"
+  },
+  "SB 429": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 445": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "SB 457": {
+    "category": "Review Impacts",
+    "note": "Proposed HCD capacity formulas may change the County housing element site inventory; wait for operative criteria before scheduling a plan amendment.",
+    "action": "Assign a focused legal and Planning review of the operative text and current County code.",
+    "codeUrl": "https://countywideplan.sbcounty.gov/policy-plan/land-use/",
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-08"
+  },
+  "SB 486": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 489": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 492": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-30"
+  },
+  "SB 499": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 5": {
+    "category": "No Changes Required",
+    "note": "Vetoed proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains vetoed; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Vetoed",
+    "dateAtReview": "2025-10-06"
+  },
+  "SB 507": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 514": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-13"
+  },
+  "SB 526": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-04"
+  },
+  "SB 543": {
+    "category": "Review Impacts",
+    "note": "ADU/JADU law changes completeness, appeal, impact fees, and combinations; Chapter 84.36 addresses some items, but verify appeals and unit counts.",
+    "action": "Ask County Counsel and ADU staff to reconcile unit counts, appeal process, and fees with Chapter 84.36.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198937",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 569": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-31"
+  },
+  "SB 594": {
+    "category": "No Changes Required",
+    "note": "The enacted 2026 change extends facilitator powers to tribal governments; no new County LUS Planning requirement is identified.",
+    "action": "No LUS Planning action indicated by the 2026 tribal-government extension.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-25"
+  },
+  "SB 606": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-08-29"
+  },
+  "SB 611": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-01"
+  },
+  "SB 616": {
+    "category": "No Changes Required",
+    "note": "Vetoed proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains vetoed; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Vetoed",
+    "dateAtReview": "2025-10-13"
+  },
+  "SB 625": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 629": {
+    "category": "No Changes Required",
+    "note": "Vetoed proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains vetoed; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Vetoed",
+    "dateAtReview": "2025-10-11"
+  },
+  "SB 635": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-07"
+  },
+  "SB 653": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-13"
+  },
+  "SB 655": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 677": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-08"
+  },
+  "SB 681": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2025-06-27"
+  },
+  "SB 71": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-13"
+  },
+  "SB 715": {
+    "category": "No Changes Required",
+    "note": "Proposed candidate-election deadlines do not appear to affect LUS Planning.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-09"
+  },
+  "SB 722": {
+    "category": "Procedure Update",
+    "note": "Excludes mobilehome and special occupancy park sites from transit housing streamlining; update eligibility screening.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-07-16"
+  },
+  "SB 748": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 757": {
+    "category": "No Changes Required",
+    "note": "Vetoed proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains vetoed; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Vetoed",
+    "dateAtReview": "2025-10-11"
+  },
+  "SB 786": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 79": {
+    "category": "Development Code Update",
+    "note": "Transit housing by-right rules may override residential or commercial zoning near qualifying transit; map covered County parcels before amending land use tables.",
+    "action": "Map qualifying transit areas before deciding whether any County land use tables need amendment.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 838": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-13"
+  },
+  "SB 866": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-08-13"
+  },
+  "SB 887": {
+    "category": "Procedure Update",
+    "note": "Data center projects cannot rely on covered categorical CEQA exemptions; revise environmental screening for new applications.",
+    "action": "Flag data center projects for updated CEQA exemption screening.",
+    "codeUrl": null,
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2026-09-21"
+  },
+  "SB 9": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-198937",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 904": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-30"
+  },
+  "SB 908": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-08-31"
+  },
+  "SB 92": {
+    "category": "Procedure Update",
+    "note": "Density Bonus Law excludes certain transient lodging concessions; check County density bonus screening.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": "https://codelibrary.amlegal.com/codes/sanbernardino/latest/sanberncty_ca/0-0-0-167853",
+    "statusAtReview": "Enacted",
+    "dateAtReview": "2025-10-10"
+  },
+  "SB 924": {
+    "category": "No Changes Required",
+    "note": "No LUS Planning code or process change identified in the current bill status.",
+    "action": "No LUS Planning change identified; route any separate County duties to the responsible division.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-06-24"
+  },
+  "SB 954": {
+    "category": "No Changes Required",
+    "note": "Vetoed proposal: its requirements are not enacted; no implementation step is due.",
+    "action": "No implementation step while the bill remains vetoed; watch for a new proposal.",
+    "codeUrl": null,
+    "statusAtReview": "Vetoed",
+    "dateAtReview": "2026-09-18"
+  },
+  "SB 958": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-08"
+  },
+  "SB 967": {
+    "category": "General Plan Update",
+    "note": "First-pass Policy Plan or housing-element cross-check; identify a plan amendment only after confirming the bill applies to the County.",
+    "action": "Check the adopted Policy Plan and housing element; schedule a change if the law requires one.",
+    "codeUrl": "https://countywideplan.sbcounty.gov/policy-plan/land-use/",
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-05-14"
+  },
+  "SB 979": {
+    "category": "Monitor / FYI",
+    "note": "No immediate LUS Planning amendment identified; watch for implementing guidance or coordination with the responsible agency.",
+    "action": "Track implementation guidance and coordinate with the affected County division if needed.",
+    "codeUrl": null,
+    "statusAtReview": "Pending",
+    "dateAtReview": "2026-04-06"
+  },
+  "SB 996": {
+    "category": "Procedure Update",
+    "note": "First-pass permit, notice, CEQA, or reporting workflow cross-check; confirm the affected County process.",
+    "action": "Identify affected review steps and update the County checklist or workflow if applicable.",
+    "codeUrl": null,
+    "statusAtReview": "Enrolled",
+    "dateAtReview": "2026-09-02"
+  }
+}
