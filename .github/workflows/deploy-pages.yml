@@ -5,6 +5,7 @@ on:
     branches: ["main"]
     paths:
       - "site/**"
+      - "data/**"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
@@ -29,6 +30,11 @@ jobs:
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
+
+      - name: Prepare deploy folder
+        run: |
+          mkdir -p ./site/data
+          cp -R ./data/. ./site/data/
 
       - name: Upload staging site
         uses: actions/upload-pages-artifact@v4
