@@ -1,0 +1,11 @@
+{
+  "name": "california-land-use-bill-tracker",
+  "compatibility_date": "2026-05-15",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "california-land-use-bill-tracker",
+      "database_id": "75c0f3c3-e151-4ea0-8f45-1476d7e4778b"
+    }
+  ]
+}
