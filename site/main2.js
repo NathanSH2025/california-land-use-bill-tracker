@@ -53,14 +53,22 @@ function render(){
   document.getElementById("bill-list").innerHTML=rows.length?rows.map(r=>card(r,false)).join(""):'<div class="empty-state">No bills match the selected filters.</div>';
   renderRemoved();
 }
-function block(label,text,id){return '<div class="record-block"><div class="record-label"><span>'+label+'</span><button type="button" data-edit="'+esc(id)+'">Edit</button></div><p class="record-text">'+esc(text)+'</p></div>'}
+function block(label,text,id,kind,extra=""){
+  return '<div class="record-block '+(kind==="action"?"recommended":"")+'"><div class="record-label"><span>'+label+'</span></div><p class="record-text">'+esc(text)+'</p><button class="edit-link" type="button" data-edit="'+esc(id)+'">Edit</button>'+extra+'</div>'
+}
 function card(r,isRemoved){
-  return '<article class="bill-card"><div class="card-head"><div><div><span class="bill-id">'+esc(r.id)+'</span><span class="session">'+esc(r.session)+'</span></div><div class="bill-title">'+esc(r.title)+'</div></div><span class="status-pill status-'+slug(r.status)+'">'+esc(statusLabel(r.status))+'</span></div>'+
-  '<div class="impact-row"><span class="impact-pill impact-'+slug(r.county_impact_category)+'">'+esc(r.county_impact_category)+'</span></div>'+
-  '<div class="meta-row">'+(r.last_updated?"Last Updated: "+esc(r.last_updated)+" · ":"")+esc(r.legislative_stage)+'<br>Category: '+esc((r.categories||[]).join(", "))+'</div>'+
-  block("BILL SUMMARY",r.summary,r.id)+block("COUNTY IMPACT",r.county_impact,r.id)+block("RECOMMENDED ACTION",r.recommended_action,r.id)+
-  '<div class="card-actions"><a href="'+esc(r.official_bill_text)+'" target="_blank" rel="noopener">Official bill text ↗</a><a href="'+esc(r.status_history)+'" target="_blank" rel="noopener">Status &amp; history ↗</a>'+
-  (isRemoved?'<button type="button" data-restore="'+esc(r.id)+'">Add back to tracker</button>':'<button class="remove" type="button" data-remove="'+esc(r.id)+'">Remove from tracker</button>')+'</div></article>';
+  const impactOptions=impacts.map(x=>'<option value="'+esc(x)+'" '+(x===r.county_impact_category?"selected":"")+'>'+esc(x)+'</option>').join("");
+  const codeRef=r.code_reference?'<span class="code-reference">County code reference ↗</span>':"";
+  return '<article class="bill-card impact-border-'+slug(r.county_impact_category)+'">'+
+  '<div class="card-head"><div class="card-title-wrap"><div><span class="bill-id">'+esc(r.id)+'</span><span class="session">'+esc(r.session)+'</span></div><div class="bill-title">'+esc(r.title)+'</div></div>'+
+  '<div class="card-badges"><span class="status-pill status-'+slug(r.status)+'">'+esc(statusLabel(r.status))+'</span><select class="impact-select impact-'+slug(r.county_impact_category)+'" data-impact-select="'+esc(r.id)+'">'+impactOptions+'</select></div></div>'+
+  '<div class="updated-row"><strong>Last Updated:</strong> '+esc(r.last_updated||"—")+(r.legislative_stage?' · '+esc(r.legislative_stage):'')+'</div>'+
+  '<div class="category-row">▶ <strong>Category:</strong> '+esc((r.categories||[]).join(", "))+' · <button type="button" data-edit="'+esc(r.id)+'">Edit</button></div>'+
+  block("BILL SUMMARY",r.summary,r.id,"summary")+
+  block("COUNTY IMPACT",r.county_impact,r.id,"impact",codeRef)+
+  block("RECOMMENDED ACTION",r.recommended_action,r.id,"action")+
+  '<div class="card-actions"><div class="source-links"><a href="'+esc(r.official_bill_text)+'" target="_blank" rel="noopener">Official bill text ↗</a><a href="'+esc(r.status_history)+'" target="_blank" rel="noopener">Status &amp; history ↗</a></div>'+
+  (isRemoved?'<button class="tracker-action" type="button" data-restore="'+esc(r.id)+'">Add back to tracker</button>':'<button class="tracker-action remove" type="button" data-remove="'+esc(r.id)+'">Remove from tracker</button>')+'</div></article>';
 }
 function renderRemoved(){
   const rows=S.records.filter(r=>S.removed.has(r.id)).map(current),host=document.getElementById("removed-list");
@@ -68,7 +76,7 @@ function renderRemoved(){
 }
 function events(){
   document.getElementById("search").addEventListener("input",render);
-  document.addEventListener("change",e=>{const x=e.target.closest("[data-filter-kind]");if(!x)return;const set=S[x.dataset.filterKind];x.checked?set.add(x.value):set.delete(x.value);counts();render()});
+  document.addEventListener("change",e=>{const impact=e.target.closest("[data-impact-select]");if(impact){const id=impact.dataset.impactSelect;S.overrides[id]={...(S.overrides[id]||{}),county_impact_category:impact.value};localStorage.setItem("billTrackerOverrides-v2",JSON.stringify(S.overrides));render();return}const x=e.target.closest("[data-filter-kind]");if(!x)return;const set=S[x.dataset.filterKind];x.checked?set.add(x.value):set.delete(x.value);counts();render()});
   document.addEventListener("click",e=>{
     const a=e.target.closest("[data-filter-action]");if(a){const d=a.closest(".filter"),k=d.querySelector("[data-filter-options]").dataset.filterOptions,inputs=[...d.querySelectorAll('input[type="checkbox"]')],yes=a.dataset.filterAction==="select-all";inputs.forEach(x=>{x.checked=yes;yes?S[k].add(x.value):S[k].delete(x.value)});counts();render();return}
     const rm=e.target.closest("[data-remove]");if(rm){S.removed.add(rm.dataset.remove);saveRemoved();render();return}
