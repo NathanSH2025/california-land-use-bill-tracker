@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="San Bernardino County LUS Planning California land use bill tracker." />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="San Bernardino County LUS Planning California land use bill tracker.">
   <title>California Land Use Bills | LUS Planning</title>
-  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
   <a id="top"></a>
@@ -17,7 +17,7 @@
         <div class="session-line">2025–2026 legislative session · County impact and action tracker</div>
       </div>
       <div class="header-actions">
-        <div class="scan-meta">Last source scan: <strong id="last-scan">10/1/2026, 1:12:19 PM</strong></div>
+        <div class="scan-meta">Last source scan: <strong>10/1/2026, 1:12:19 PM</strong></div>
         <div class="action-row">
           <button class="btn primary" id="update-tracker" type="button">Update tracker</button>
           <button class="btn" id="export-tracker" type="button">Export</button>
@@ -28,91 +28,50 @@
 
   <main class="shell">
     <section class="metrics" aria-label="Tracker summary">
-      <button class="metric-card" data-summary-filter="all" type="button">
-        <span class="metric-value" id="metric-tracked">202</span>
-        <span class="metric-label">Bills tracked</span>
-      </button>
-      <button class="metric-card" data-summary-filter="Chaptered" type="button">
-        <span class="metric-value" id="metric-chaptered">117</span>
-        <span class="metric-label">Chaptered</span>
-      </button>
-      <button class="metric-card" data-summary-filter="Vetoed" type="button">
-        <span class="metric-value" id="metric-vetoed">9</span>
-        <span class="metric-label">Vetoed</span>
-      </button>
-      <button class="metric-card" data-summary-filter="recent" type="button">
-        <span class="metric-value" id="metric-recent">44</span>
-        <span class="metric-label">Changes in Last 7 Days</span>
-      </button>
-      <button class="metric-card removed" data-summary-filter="removed" type="button">
-        <span class="metric-value" id="metric-removed">82</span>
-        <span class="metric-label">Removed / not tracking</span>
-      </button>
+      <button class="metric-card" data-summary-filter="all" type="button"><span class="metric-value" id="metric-tracked">202</span><span class="metric-label">Bills tracked</span></button>
+      <button class="metric-card" data-summary-filter="Chaptered" type="button"><span class="metric-value" id="metric-chaptered">117</span><span class="metric-label">Chaptered</span></button>
+      <button class="metric-card" data-summary-filter="Vetoed" type="button"><span class="metric-value" id="metric-vetoed">9</span><span class="metric-label">Vetoed</span></button>
+      <button class="metric-card" data-summary-filter="recent" type="button"><span class="metric-value" id="metric-recent">44</span><span class="metric-label">Changes in Last 7 Days</span></button>
+      <button class="metric-card removed" data-summary-filter="removed" type="button"><span class="metric-value" id="metric-removed">82</span><span class="metric-label">Removed / not tracking</span></button>
     </section>
 
     <section class="controls" aria-label="Bill filters">
-      <label class="search-wrap">
-        <span class="sr-only">Search bills</span>
-        <input id="search" type="search" placeholder="Search bills" autocomplete="off" />
-      </label>
-
+      <label class="search-wrap"><span class="sr-only">Search bills</span><input id="search" type="search" placeholder="Search bills" autocomplete="off"></label>
       <div class="filter-row">
         <details class="filter" id="status-filter">
           <summary>Status <span class="filter-count" id="status-count"></span></summary>
           <div class="filter-panel">
-            <div class="filter-actions">
-              <button type="button" data-filter-action="select-all">Select all</button>
-              <span>/</span>
-              <button type="button" data-filter-action="clear-all">Clear all</button>
-              <button class="info-btn" type="button" data-info="status" aria-label="Status definitions">i</button>
-            </div>
+            <div class="filter-actions"><button type="button" data-filter-action="select-all">Select all</button><span>/</span><button type="button" data-filter-action="clear-all">Clear all</button><button class="info-btn" type="button" data-info="status" aria-label="Status definitions">i</button></div>
             <div class="check-list" data-filter-options="status"></div>
           </div>
         </details>
-
         <details class="filter" id="category-filter">
           <summary>Category <span class="filter-count" id="category-count"></span></summary>
           <div class="filter-panel">
-            <div class="filter-actions">
-              <button type="button" data-filter-action="select-all">Select all</button>
-              <span>/</span>
-              <button type="button" data-filter-action="clear-all">Clear all</button>
-              <button class="info-btn" type="button" data-info="category" aria-label="Category definitions">i</button>
-            </div>
+            <div class="filter-actions"><button type="button" data-filter-action="select-all">Select all</button><span>/</span><button type="button" data-filter-action="clear-all">Clear all</button><button class="info-btn" type="button" data-info="category" aria-label="Category definitions">i</button></div>
             <div class="check-list" data-filter-options="category"></div>
           </div>
         </details>
-
         <details class="filter" id="impact-filter">
           <summary>County Impact <span class="filter-count" id="impact-count"></span></summary>
           <div class="filter-panel">
-            <div class="filter-actions">
-              <button type="button" data-filter-action="select-all">Select all</button>
-              <span>/</span>
-              <button type="button" data-filter-action="clear-all">Clear all</button>
-              <button class="info-btn" type="button" data-info="impact" aria-label="County impact definitions">i</button>
-            </div>
+            <div class="filter-actions"><button type="button" data-filter-action="select-all">Select all</button><span>/</span><button type="button" data-filter-action="clear-all">Clear all</button><button class="info-btn" type="button" data-info="impact" aria-label="County impact definitions">i</button></div>
             <div class="check-list" data-filter-options="impact"></div>
           </div>
         </details>
       </div>
-
       <div class="showing" id="showing">Loading bills…</div>
     </section>
 
-    <section id="migration-note" class="migration-note" hidden>
-      <strong>GitHub migration:</strong>
-      The current working view has been rebuilt from the preserved October 1 Site snapshot. Chaptered, vetoed, and removed-bill detail records are being restored from the legislative workbook and scan history.
+    <section id="migration-note" class="migration-note">
+      <strong>GitHub migration:</strong> The 76 detailed bills in the current working view have been recovered from the October 1 Site snapshot. Chaptered, vetoed, and removed-bill detail records are being restored next from the legislative workbook and scan history.
     </section>
 
     <section id="bill-list" class="bill-list" aria-live="polite"></section>
 
     <section id="removed-section" class="removed-section">
       <div class="section-heading">
-        <div>
-          <h2>Removed / not tracking</h2>
-          <p>Bills removed from normal tracking remain separated from the active tracker and should not be rediscovered by routine scans unless restored.</p>
-        </div>
+        <div><h2>Removed / not tracking</h2><p>Bills removed from normal tracking stay separated from the active tracker and should not be rediscovered by routine scans unless restored.</p></div>
         <button class="btn" id="toggle-removed" type="button">Show removed</button>
       </div>
       <div id="removed-list" class="bill-list" hidden></div>
@@ -123,62 +82,29 @@
       <p>The workbook review covers June 2025 onward, including the May 21–June 9 overlap, the 2025 signed and enrolling sheets, the 2026 sheets and working list. Removed bills stay in their own list and are skipped by normal dashboard scans until added back. Permanently deleted bills remain blocked from rediscovery. Bill numbers can be reused in later sessions, so the session is stored with every bill.</p>
       <p><strong>Planning note:</strong> “No Changes Required” means no LUS Planning change identified at the bill’s current status; other County offices may have duties. Proposed bills are not law.</p>
     </section>
-
     <a class="back-top" href="#top">Back to top ↑</a>
   </main>
 
   <dialog id="edit-dialog">
     <form method="dialog" id="edit-form">
-      <div class="dialog-head">
-        <div>
-          <div class="dialog-kicker">Edit tracker record</div>
-          <h2 id="edit-title">Bill</h2>
-        </div>
-        <button class="icon-close" value="cancel" aria-label="Close">×</button>
-      </div>
-      <input type="hidden" id="edit-bill-id" />
-      <label>Bill summary
-        <textarea id="edit-summary" rows="6"></textarea>
-      </label>
-      <label>County impact
-        <textarea id="edit-impact" rows="5"></textarea>
-      </label>
-      <label>Recommended action
-        <textarea id="edit-action" rows="5"></textarea>
-      </label>
-      <label>Official bill text link
-        <input id="edit-official-link" type="url" />
-      </label>
-      <div class="dialog-actions">
-        <button class="btn" value="cancel">Cancel</button>
-        <button class="btn primary" id="save-edit" value="default">Save locally</button>
-      </div>
+      <div class="dialog-head"><div><div class="dialog-kicker">Edit tracker record</div><h2 id="edit-title">Bill</h2></div><button class="icon-close" value="cancel" aria-label="Close">×</button></div>
+      <input type="hidden" id="edit-bill-id">
+      <label>Bill summary<textarea id="edit-summary" rows="6"></textarea></label>
+      <label>County impact<textarea id="edit-impact" rows="5"></textarea></label>
+      <label>Recommended action<textarea id="edit-action" rows="5"></textarea></label>
+      <label>Official bill text link<input id="edit-official-link" type="url"></label>
+      <div class="dialog-actions"><button class="btn" value="cancel">Cancel</button><button class="btn primary" id="save-edit" value="default">Save locally</button></div>
       <p class="local-edit-note">Browser edits are kept on this device. Changes requested in ChatGPT are committed to GitHub and deployed automatically.</p>
     </form>
   </dialog>
 
   <dialog id="info-dialog">
-    <form method="dialog">
-      <div class="dialog-head">
-        <h2 id="info-title">Definitions</h2>
-        <button class="icon-close" value="cancel" aria-label="Close">×</button>
-      </div>
-      <div id="info-content" class="info-content"></div>
-    </form>
+    <form method="dialog"><div class="dialog-head"><h2 id="info-title">Definitions</h2><button class="icon-close" value="cancel" aria-label="Close">×</button></div><div id="info-content" class="info-content"></div></form>
   </dialog>
 
   <dialog id="scan-dialog">
-    <form method="dialog">
-      <div class="dialog-head">
-        <h2>Source scan migration</h2>
-        <button class="icon-close" value="cancel" aria-label="Close">×</button>
-      </div>
-      <p>The display and version-control system are now running from GitHub. The automated California Legislative Information scan is the next migration component and is not yet running from GitHub Pages.</p>
-      <p>Until that service is migrated, use the official bill-text and status links on each record for current legislative information.</p>
-      <div class="dialog-actions"><button class="btn primary" value="default">Close</button></div>
-    </form>
+    <form method="dialog"><div class="dialog-head"><h2>Source scan migration</h2><button class="icon-close" value="cancel" aria-label="Close">×</button></div><p>The display and version-control system now run from GitHub. The automated California Legislative Information scan is the next migration component and is not yet running from GitHub Pages.</p><p>Until that service is migrated, use the official bill-text and status links on each record for current legislative information.</p><div class="dialog-actions"><button class="btn primary" value="default">Close</button></div></form>
   </dialog>
-
   <script src="./app.js"></script>
 </body>
 </html>
