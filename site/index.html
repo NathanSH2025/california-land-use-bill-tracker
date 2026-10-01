@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>California Land Use Bill Tracker — Migration Staging</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main>
+    <div class="eyebrow">SAN BERNARDINO COUNTY · LUS PLANNING</div>
+    <h1>California land use bills</h1>
+    <p class="subtitle">GitHub-backed migration staging environment</p>
+
+    <section class="notice">
+      <strong>Migration in progress.</strong>
+      <p>The complete working tracker is still hosted on the existing ChatGPT Site while its application source and bill data are reconstructed here. This staging site is deployed automatically from the GitHub repository.</p>
+    </section>
+
+    <section class="cards" aria-label="Migration status">
+      <article>
+        <span class="metric">202</span>
+        <span class="label">Bills in current tracker snapshot</span>
+      </article>
+      <article>
+        <span class="metric">117</span>
+        <span class="label">Chaptered</span>
+      </article>
+      <article>
+        <span class="metric">9</span>
+        <span class="label">Vetoed</span>
+      </article>
+      <article>
+        <span class="metric">82</span>
+        <span class="label">Removed / not tracking</span>
+      </article>
+    </section>
+
+    <section class="status">
+      <h2>What is already protected</h2>
+      <ul>
+        <li>October 1, 2026 rendered recovery snapshot</li>
+        <li>Tracker recovery and migration plan</li>
+        <li>Permanent project rules for future ChatGPT/Codex sessions</li>
+        <li>Automatic GitHub Pages deployment workflow</li>
+      </ul>
+    </section>
+
+    <section class="status">
+      <h2>Next migration work</h2>
+      <ol>
+        <li>Recover the full bill dataset and persistent tracker state.</li>
+        <li>Rebuild filtering, editing, removed-bill handling, and scan controls.</li>
+        <li>Validate the GitHub version against the existing tracker.</li>
+        <li>Switch the production tracker only after parity is confirmed.</li>
+      </ol>
+    </section>
+
+    <p class="footnote">This repository is intentionally public. No credentials or non-public County material should be stored here.</p>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>
